@@ -10,7 +10,7 @@
 
 # Usage
 
-* There are many ways to use the Progressbar, you can see a few basic examples here.a
+* There are many ways to use the Progressbar, you can see a few basic examples below.
 
 # Usage: the first approach - (HTML5, CSS3)
 
