@@ -21,3 +21,16 @@
 
 * the main changes will be made in the CSS3 file binded in the main HTML5 file, just look for the class name of each element and modify the content and appearence in the CSS3 file.
 
+
+# Usage: the second approach - (ReactJS, Styled Components)
+
+* using this version like component, just add the GlobalStyle, img and style.app.ts files in the source of your React Application, after that copy all the content from the App.tsx and place in the right position in yout code.
+
+* GlobalStyles: the file have all the main (Global) styles for the component.
+* img: the file have the image used in the component.
+* style.app.ts: the file have all the styles applied in the component using styled components.
+
+
+# Observation
+
+* there is no need to install any external package to use any version of this progress bar.
